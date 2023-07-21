@@ -1,0 +1,17 @@
+<template>
+  <!--Preloader area start here-->
+  <!-- <div id="loading" class="loading">
+    <div class="rs-loader">
+      <div class="rs-shadow"></div>
+      <div class="rs-gravity">
+        <div class="rs-ball"></div>
+      </div>
+    </div>
+  </div> -->
+  <!--Preloader area End here-->
+</template>
+<script>
+export default {
+  name: "Preloader"
+};
+</script>

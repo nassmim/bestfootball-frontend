@@ -1,0 +1,27 @@
+{
+    "name": "BestFootball",
+    "short_name": "BF",
+    "description": "BestFootball progressive web app to train and play on football challenges with friends",
+    "theme_color": "#4DBA87",
+    "icons": [
+        {
+            "src": "./images/logos/bestfootball_logo-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/logos/bestfootball_logo-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/logos/bestfootball_logo-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "website": "https://bestfootball.fr/",
+    "display": "standalone",
+    "background_color": "#000000"
+}
